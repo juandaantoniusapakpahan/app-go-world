@@ -1,2 +1,4 @@
 github.com/juandaantoniusapakpahan/module-go-world v1.1.0 h1:ftQBBgnvsTPpmBkSONHG62OFhP0vqPVlD02QijtI/Pg=
 github.com/juandaantoniusapakpahan/module-go-world v1.1.0/go.mod h1:WMtraz7IQGGX9OsuN5U42wsN5k4I0IqpZrMO3zVLpX4=
+github.com/juandaantoniusapakpahan/module-go-world/v2 v2.0.0 h1:sQ8ter7Izvoj1Ck5PLma2sBdX0iIOx30EXFLgmEyOEE=
+github.com/juandaantoniusapakpahan/module-go-world/v2 v2.0.0/go.mod h1:WL5qI5lXYZFud6Tg7rV8a+WYvTMIpftEpKvoAxuVvz8=
