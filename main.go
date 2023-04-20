@@ -8,4 +8,5 @@ import (
 
 func main() {
 	fmt.Println(world_go.World())
+	fmt.Println(world_go.Name("Juanda"))
 }
